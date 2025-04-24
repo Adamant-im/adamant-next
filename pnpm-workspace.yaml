@@ -1,0 +1,2 @@
+# @see https://pnpm.io/settings#enginestrict
+engineStrict: true
